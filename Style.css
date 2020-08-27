@@ -1,0 +1,81 @@
+
+        h1{
+            color: lightcoral ;
+        }
+        .H2{
+            color: lightcoral;
+        }
+        html{
+            background-image: url(Universe.jpeg);
+        }
+        .Camel{
+            color: #ffffff;
+            font-family: fantasy;
+        }
+
+        .Chameleon{
+            color: #ffffff;
+            font-family: fantasy;
+        }
+
+        .Panda{
+            color: #ffffff;
+            font-family: fantasy;
+        }
+
+        .Cicada{
+            color: #ffffff;
+            font-family: fantasy;
+        }
+
+        .Teddy{
+            color: #ffffff;
+            font-family: fantasy;
+        }
+
+        .Pigeon{
+            color: #ffffff;
+            font-family: fantasy;
+        }
+
+        .CamelImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;;
+        }
+
+        .ChameleonImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;;
+        }
+
+        .PandaImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;;
+        }
+
+        .CicadaImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;;
+        }
+
+        .TeddyImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 8px ;
+         border-color: purple;
+        }
+
+        .PigeonImg{
+             border: solid;
+         border-width: 3px;
+         border-radius: 13px ;
+         border-color: purple;;
+        }
